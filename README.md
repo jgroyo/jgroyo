@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jgroyo
 - 👀 I’m interested in devops, cloud, basketball.
 - 🌱 I’m currently learning cloud, devops, project management
-- 💞️ I’m looking to collaborate on automatic deployments.
 - 📫 How to reach me: open a pull request.
 
 <!---
